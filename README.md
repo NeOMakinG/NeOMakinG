@@ -6,4 +6,4 @@
 - 📫 How to reach me: github@szczupak.fr
 - ⚡ Fun fact: I love vim 💙
 
-Sometime streaming at [twitch.tv/NeOMakinG](https://twitch.tv/NeOMakinG) (Playing games, sometime developing a GTA V server with Prisma, Nuxt...)
+Sometime streaming at [twitch.tv/NeOMakinG](https://twitch.tv/NeOMakinG) (playing games, sometime developing a GTA V server with Prisma, Nuxt...)
