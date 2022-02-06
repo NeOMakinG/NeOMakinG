@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on PrestaShop
-- 🌱 I’m currently learning Solidity, Technical Analysis, Electronic and 3D modeling
-- 👯 I’m looking to collaborate on [the new front-office theme of PrestaShop](https://github.com/PrestaShop/theme-refacto)
+- 🌱 I’m currently learning Solidity, Web3, Technical Analysis and 3D modeling
+- 👯 I’m looking to collaborate on web3 projects and [the new front-office theme of PrestaShop](https://github.com/PrestaShop/theme-refacto)
 - 📫 How to reach me: github@szczupak.fr
 - ⚡ Fun fact: I love vim 💙
 
