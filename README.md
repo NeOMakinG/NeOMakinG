@@ -5,5 +5,3 @@
 - 👯 I’m looking to collaborate on web3 projects and [the new front-office theme of PrestaShop](https://github.com/PrestaShop/theme-refacto)
 - 📫 How to reach me: github@szczupak.fr
 - ⚡ Fun fact: I love vim 💙
-
-Sometime streaming at [twitch.tv/NeOMakinG](https://twitch.tv/NeOMakinG) (playing games, sometime developing a GTA V server with Prisma, Nuxt...)
